@@ -9,3 +9,4 @@ In order to create a custom YOLOv3 detector we will need the following:
 *   train.txt file 
 
 In order to create a custom object detector you need a good dataset of images and labels so that the detector can be efficiently trained to detect objects.
+
